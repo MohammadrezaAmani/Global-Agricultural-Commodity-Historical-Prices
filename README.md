@@ -149,6 +149,15 @@ If this dataset contributes to your published research, quantitative model, or a
 
 ---
 <div align="center">
-<b>⚖️ Disclaimer:</b> <i>This data is provided strictly for educational, research, and algorithmic backtesting purposes. It does not constitute financial or trading advice.</i><br><br>
-*If this high-resolution agricultural data saves you hundreds of hours of scraping, please consider giving it an ⬆️ <strong>Upvote</strong> on Kaggle!*
+
+**⚖️ Disclaimer:** *This dataset is provided for educational, research, and algorithmic backtesting purposes only. While every effort has been made to ensure data quality and consistency, no guarantee is made regarding its completeness or accuracy. This dataset does not constitute financial, investment, or trading advice.*
+
+<br>
+
+**🙏 Acknowledgements:** *The documentation for this project was prepared with the assistance of **Zhipu AI - GLM-4.7**. AI was used to improve the writing, structure, and readability of the documentation, while the dataset, data collection, processing, validation, and maintenance were carried out by the author.*
+
+<br>
+
+*If this dataset saves you hours of data collection or proves useful in your research or projects, please consider giving it an ⭐ on GitHub and an ⬆️ **Upvote** on Kaggle. Your support helps keep the dataset actively maintained and regularly updated.*
+
 </div>
